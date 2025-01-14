@@ -1,5 +1,3 @@
-import { ChangeEvent } from 'react';
-
 import { Select, Typography } from 'antd';
 const { Title } = Typography;
 
